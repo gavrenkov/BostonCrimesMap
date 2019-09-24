@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+project/project
+project/target
+target/scala-2.11/classes
+target/scala-2.11/test-classes
+target/scala-2.11/update
+target/scala-2.11/resolution-cache
+target/streams
